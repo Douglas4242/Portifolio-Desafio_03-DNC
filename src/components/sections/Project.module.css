@@ -1,0 +1,10 @@
+.Projects #More {
+    display: flex;
+    justify-content: center;
+}
+
+.cardGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 5fr);
+    margin: 40px 10px 40px 12.5%
+}

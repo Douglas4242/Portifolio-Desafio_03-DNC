@@ -1,0 +1,23 @@
+.Intro {
+    width: 70%;
+}
+
+.Intro h1 {
+    margin-bottom: 0px !important;
+}
+
+.Intro h2 {
+    margin: 0px 0px 40px 80px;
+    color: aqua
+}
+
+.Intro p {
+    margin: 10px 0px 30px 120px;
+    font-size: 20px;
+}
+
+
+.Intro div {
+    margin-left: 30px;
+    padding-left: 30px;
+}

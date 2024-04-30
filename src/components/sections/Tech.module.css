@@ -1,0 +1,6 @@
+.Tech {}
+
+.Tech #TechImages {
+    display: flex;
+    justify-content: center;
+}

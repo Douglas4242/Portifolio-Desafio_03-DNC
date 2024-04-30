@@ -1,0 +1,26 @@
+.Footer {
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    margin-top: 80px;
+    font-size: 20px;
+
+}
+
+.Footer ul {
+    display: flex;
+    list-style: none;
+}
+
+.Footer #icons {
+    margin: 15px;
+}
+
+.Footer li {
+    margin: 50px;
+}
+
+.Footer p {
+    margin: 0px;
+}

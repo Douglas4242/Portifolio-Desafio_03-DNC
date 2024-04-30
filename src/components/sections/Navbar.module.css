@@ -1,0 +1,30 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+
+.Navbar div {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+
+}
+
+.Navbar ul {
+    display: flex;
+    margin: 15px;
+}
+
+.Navbar li {
+    margin: 15px;
+    list-style: none;
+}
+
+.Navbar a {
+    text-decoration: none;
+}
+
+.Navbar a:hover {
+    text-shadow: 0px 0px 5px rgb(165, 241, 255);
+}

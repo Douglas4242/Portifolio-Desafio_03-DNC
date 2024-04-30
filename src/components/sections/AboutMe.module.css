@@ -1,0 +1,29 @@
+.AboutMe {}
+
+.AboutMe #Timeline {
+    margin-left: 15%;
+    width: 70%;
+    display: flex;
+    place-content: center;
+
+}
+
+.AboutMe #dates {
+    margin-left: 7%;
+    display: flex;
+    justify-content: space-between;
+    width: 86%;
+}
+
+.AboutMe img {
+
+    margin-top: 0px;
+    width: 100%;
+}
+
+.AboutMe #events {
+    margin-left: 7%;
+    display: flex;
+    justify-content: space-between;
+    width: 86%;
+}
