@@ -8,7 +8,7 @@ const Footer = () => {
             <ul>
                 <li>
                     <p>Meu contato:</p>
-                    <p>12 988888888</p>
+                    <p>12 998888888</p>
                 </li>
                 <li>
                     <p>Email:</p>
